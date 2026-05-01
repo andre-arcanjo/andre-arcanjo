@@ -5,7 +5,7 @@ Futuro desenvolvedor full stack.
  <div>
   <a href="https://github.com/andre-arcanjo"></a>
 
- <div style="display: inline-block">
+ <div style="display: flex gap: 10px">
 
   <img align ="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
