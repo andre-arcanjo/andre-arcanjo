@@ -36,6 +36,11 @@ Desenvolvedor Full Stack com foco em React, TypeScript e Node.js. Desenvolvo apl
   <img alt="VS Code" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 </div>
 
+<div align="center">
+  <img height="180em" src="./profile/stats.svg" alt="Estatísticas do GitHub" />
+  <img height="180em" src="./profile/top-langs.svg" alt="Linguagens mais utilizadas" />
+</div>
+
 ## Portfólio
 
 Confira meus projetos e conheça mais sobre meu trabalho:
