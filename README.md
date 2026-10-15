@@ -40,6 +40,8 @@ Desenvolvedor Full Stack com foco em React, TypeScript e Node.js. Desenvolvo apl
 
 ## Estatísticas
 
+<br>
+
 <div align="center">
   <img height="180em" src="./profile/stats.svg" alt="Estatísticas do GitHub" />
   &nbsp;&nbsp;&nbsp;
